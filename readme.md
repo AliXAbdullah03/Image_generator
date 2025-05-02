@@ -1,5 +1,3 @@
-Sure! Here's a **professional GitHub description** you can use to clearly explain **what we did** for this project:
-
 ---
 
 # 📄 Project Description
